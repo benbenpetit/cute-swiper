@@ -168,6 +168,26 @@ const App = () => {
             willem verbeeck
           </a>
         </h1>
+        <h1>
+          <a href="https://www.instagram.com/willemverb/" target="_blank">
+            willem verbeeck
+          </a>
+        </h1>
+        <h1>
+          <a href="https://www.instagram.com/willemverb/" target="_blank">
+            willem verbeeck
+          </a>
+        </h1>
+        <h1>
+          <a href="https://www.instagram.com/willemverb/" target="_blank">
+            willem verbeeck
+          </a>
+        </h1>
+        <h1>
+          <a href="https://www.instagram.com/willemverb/" target="_blank">
+            willem verbeeck
+          </a>
+        </h1>
       </header>
       <main>
         <section className="gallery">
